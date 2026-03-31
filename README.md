@@ -88,7 +88,8 @@ resume-analyzer/
 | DELETE | `/api/analyses/:id` | Delete analysis |
 | GET | `/api/health` | Health check |
 
-## 📄 License
-MIT
+
+
+
 
 
