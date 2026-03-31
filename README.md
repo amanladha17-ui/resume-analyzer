@@ -91,5 +91,4 @@ resume-analyzer/
 ## 📄 License
 MIT
 
----
-Built with ❤️ — AI-Based Resume Analyzer with Data Visualization (2025)
+
